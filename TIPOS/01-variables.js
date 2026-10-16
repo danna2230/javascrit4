@@ -1,0 +1,11 @@
+let nombre ="hola mundo";
+console.log(nombre);
+let NombreCompleto ="Danna";
+let nombreCompleto ="Arturo";
+console.log(NombreCompleto);
+console.log(nombreCompleto);
+let apellido , animal;
+apellido =  "Choque";
+animal = "lobo";
+console.log(apellido);
+console.log(animal);
