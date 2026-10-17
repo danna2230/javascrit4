@@ -1,4 +1,4 @@
-let nombre ="hola mundo";
+let nombre = "hola mundo";
 console.log(nombre);
 let NombreCompleto ="Danna";
 let nombreCompleto ="Arturo";

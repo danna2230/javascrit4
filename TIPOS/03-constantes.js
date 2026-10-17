@@ -1,4 +1,4 @@
 const nombre = "Hola Mundo";
-nombre = "Chanchito Feliz";
+const nombre = "Chanchito Feliz";
 
 console.log(nombre);
